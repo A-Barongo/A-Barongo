@@ -46,7 +46,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" />  
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" />  
 <img src="https://profilinator.rishav.dev/skills-assets/arduino-wordmark.svg" alt="Arduino" height="30" />  
-<img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="30" />  
+<img src="https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg" alt="GitHub" height="30" />  
 </div>
 
 </td></tr></table>
