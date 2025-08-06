@@ -8,8 +8,8 @@
 ---
 
 ## 👨‍💻 About Me  
-🎓 Electrical & Electronics Engineering graduate and Full-Stack Developer  
-🏗️ Building web apps, embedded systems, and smart automation solutions  
+🎓 Electrical & Electronics Engineer and Full-Stack Developer  
+🏗️ Building web apps, embedded systems, and AI agentic automation solutions  
 💡 Passionate about innovation, efficiency, and purpose-driven tech  
 🚀 Actively freelancing under [Automagic Solutions](#) and crafting impactful products  
 
