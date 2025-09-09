@@ -54,12 +54,12 @@
 ---
 
 ## 📦 Projects  
-- 🚚 **Deliveroo Ops App** — Flask API for delivery logistics with JWT & CI/CD  
+- 🚚 **Deliveroo App** — Real-time tracking and weight-based pricing delivery service. Flask API for delivery logistics with JWT & CI/CD {https://deliveroo-frontend.onrender.com/dashboard}
 - ✈️ **Olympus Travel** — RESTful travel agency booking backend  
-- 🎧 **JamSpaceKE** — React app for music studio booking with dynamic filtering  
-- 🚐 **NganyaLink** — Ticketing app for local matatus  
+- 🎧 **JamSpaceKE** — React app for music studio registration and booking with dynamic filtering  
+- 🚐 **NganyaLink** — Ticketing app for local matatus with QR for cleaner and quicker payment confirmation  
 - 🏥 **Olympians Hospital CLI** — Command-line hospital management system  
-- 🧢 **Cap Sensor for Visually Impaired** — Wearable sensor feedback platform using Arduino
+- 🧢 **Cap Sensor for Visually Impaired** — Wearable sensor feedback platform with wireless joystick control for the visually impaired
 
 ---
 
